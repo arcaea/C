@@ -2,8 +2,7 @@
 
 int main(){
 
-    int a=10;
-    int b=10;
+    int a=10, b=10;
 
     if(a == 10) {
         printf("a == 10\n");//當a=10時
