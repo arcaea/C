@@ -4,7 +4,7 @@ double  (8 bytes) | %lf for printing
 float   (4 bytes) | %f for printing
 char    (1 bytes) | %c for printing
 */
-
+ 
 //sizeof %zu for printing
 
 #include <stdio.h>

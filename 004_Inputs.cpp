@@ -5,7 +5,7 @@ int main(){
     int intsc, multisc1;
     double doublesc, multisc2;
     char charsc;
-
+ 
     printf("plz enter int:"); 
     scanf("%d",&intsc);
 

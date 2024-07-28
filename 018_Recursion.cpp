@@ -14,4 +14,4 @@ int main(){
     printf("sum 0 to 10 = %d", result);
 
     return 0;
-}
+} 

@@ -9,7 +9,7 @@ int main(){
     double result_double = a + b;
     int result_int_2 = (int)a + b;
     double result_double_2 = (int)a + b;
-
+ 
     printf("c = %c\ta = %f\tb = %d\n", c, a, b);
 
     printf("c + b = %d\n", c + b);

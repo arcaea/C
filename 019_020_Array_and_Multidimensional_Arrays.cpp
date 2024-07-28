@@ -18,4 +18,4 @@ int main(){
             printf("num[%d][%d] = %d\n", i, j, multinum[i][j]);
 
     return 0;
-}
+} 

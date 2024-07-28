@@ -8,7 +8,7 @@
     --  減少 1(Decrements by 1)
 */
 #include <stdio.h>
-
+ 
 int main(){
 
     int i = 4, j = 2;

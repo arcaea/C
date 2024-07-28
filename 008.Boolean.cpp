@@ -22,7 +22,7 @@ int main(){
     bool False = false;
     int a = 1;
     int b = 2;
-
+ 
 
     printf("true = %d\tfalse = %d\n", True, False);
     printf("a = %d\tb = %d\n", a, b);

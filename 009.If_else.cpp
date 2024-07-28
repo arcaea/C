@@ -7,7 +7,7 @@ if(條件1){
     條件1和條件2都為False
 }
 */
-
+ 
 #include <stdio.h>
 
 int main(){

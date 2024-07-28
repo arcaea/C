@@ -7,7 +7,7 @@ switch(變數/條件){
     case value 2:
         //body of value 2
         break;
-    
+     
     ...
     case value N:
         //body of value N
