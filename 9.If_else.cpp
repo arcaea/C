@@ -1,3 +1,13 @@
+/*
+if(條件1){
+    條件1為True
+}else if(條件2){
+    條件2為True
+}else{
+    條件1和條件2都為False
+}
+*/
+
 #include <stdio.h>
 
 int main(){
